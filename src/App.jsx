@@ -2,7 +2,6 @@ import React from 'react'
 import { Routes, Route } from 'react-router-dom'
 import Login from './Pages/Login'
 import Otp from './Pages/Otp'
-import ResendOtp from './Pages/ResendOtp'
 import Dashboard from './Pages/Dashboard'
 
 const App = () => {
